@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hola, I'm Joan ! 👋 👩🏻‍💻
 
-<!--
-**nyamburanjuguna/nyamburanjuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here to inspire women in STEM. ✨
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a couple of projects.
+- 🌱 I’m currently learning Data Structures and Algorithms.
+- 👯 I’m looking to collaborate on any Ruby on Rails project.
+- 🤔 I’m looking for help with Laravel.
+- 💬 Ask me about anything tech related.
+- 📫 How to reach me: Emaill - [njugunajoan35@gmail.com](mailto:njugunajoan35@gmail.com)
+- 😄 Pronouns: She / Her
+- ⚡ Fun fact: I can dance!
