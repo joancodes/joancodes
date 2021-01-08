@@ -2,6 +2,8 @@
 
 ### Here to inspire women in STEM. ✨
 
+
+<img align="left" width="200" height="200" src="https://github.com/nyamburanjuguna/nyamburanjuguna/blob/main/my-octocat.png?raw=true"></a>
 - 🔭 I’m currently working on a couple of projects.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on any Ruby on Rails project.
