@@ -1,6 +1,6 @@
-## Hola, I'm Joan ! 👋 👩🏻‍💻
+<h1 align="center"> Hola, I'm Joan ! 👋 👩🏻‍💻 </h1>
 
-### Here to inspire women in STEM. ✨
+<h3 align="center"> Here to inspire women in STEM. ✨</h3>
 
 
 <img align="left" width="200" height="200" src="https://github.com/nyamburanjuguna/nyamburanjuguna/blob/main/my-octocat.png?raw=true"></a>
