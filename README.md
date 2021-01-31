@@ -2,8 +2,8 @@
 
 <h3 align="center"> Here to inspire women in STEM. ✨</h3> 
 
-- 🔭 I’m currently working on a couple of projects.
-- 🌱 I’m currently doing Android Development with Java.
+- 🔭 I’m currently working on a couple of different projects.
+- 🌱 I’m building an Instagram Clone as a side fun project.
 - 👯 I’m looking to collaborate on any Ruby on Rails project.
 - 🤔 I’m looking for help with Laravel.
 - 💬 Ask me about anything tech related.
