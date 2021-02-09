@@ -3,9 +3,9 @@
 <h3 align="center"> Here to inspire women in STEM. ✨</h3> 
 
 - 🔭 I’m currently working on a couple of different projects.
-- 🌱 I’m building an Instagram Clone as a fun side project.
+- 🌱 One of them is building an Instagram Clone as a fun side project.
 - 👯 I’m looking to collaborate on any Ruby on Rails project.
-- 🤔 I’m looking for help with Laravel.
+- 🤔 I’m looking for help with React + Redux.
 - 💬 Ask me about anything tech related.
 - 📫 How to reach me: Emaill - [njugunajoan35@gmail.com](mailto:njugunajoan35@gmail.com)
 - 😄 Pronouns: She / Her
