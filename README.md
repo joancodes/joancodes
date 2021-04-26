@@ -3,7 +3,7 @@
 <h3 align="center"> Here to inspire women in STEM. ✨</h3> 
 
 - 🔭 I’m currently working on a couple of different projects.
-- 🌱 Main focus now is iOS Development with Swift.
+- 🌱 Including iOS Development with Swift.
 - 👯 I’m looking to collaborate on any Ruby on Rails project.
 - 💬 Ask me about anything tech related.
 - 📫 How to reach me: Emaill - [njugunajoan35@gmail.com](mailto:njugunajoan35@gmail.com)
