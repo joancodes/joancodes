@@ -8,5 +8,5 @@
 
 <p align="center"> 
   <img width="300" height="300" src="https://github.com/joancodes/joancodes/blob/main/my-octocat.png?raw=true"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joancodes&count_private=true&theme=tokyonight&line_height=52">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyambujoan&count_private=true&theme=tokyonight&line_height=52">
 </p>
