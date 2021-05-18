@@ -4,9 +4,6 @@
 
 - 🔭 I’m currently working on a couple of different projects.
 - 🌱 Including iOS Development with Swift.
-- 👯 I’m looking to collaborate on any Ruby on Rails project.
-- 💬 Ask me about anything tech related.
-- 📫 How to reach me: Emaill - [njugunajoan35@gmail.com](mailto:njugunajoan35@gmail.com)
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I can dance!
 
