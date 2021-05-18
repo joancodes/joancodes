@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on a couple of different projects.
 - 🌱 Including iOS Development with Swift.
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: I can dance!
 
 <p align="center"> 
   <img width="300" height="300" src="https://github.com/joancodes/joancodes/blob/main/my-octocat.png?raw=true"></a>
