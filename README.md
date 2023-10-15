@@ -10,3 +10,5 @@
   <img width="300" height="300" src="https://github.com/joancodes/joancodes/blob/main/my-octocat.png?raw=true"></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joancodes&count_private=true&theme=tokyonight&line_height=52">
 </p>
+
+[![An image of @joancodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joancodes)](https://holopin.io/@joancodes)
